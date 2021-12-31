@@ -1,8 +1,9 @@
 body{
-   background-color:#016f32;
+   background-image:url("https://media.lasvegasweekly.com/img/photos/2011/11/16/blackjack_no_credit_t653.jpg?214bc4f9d9bd7c08c7d0f6599bb3328710e01e7b");
+   background-size: cover;
     text-align: center;
     font-weight: bolder;
-    color: white;
+    color:white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
 }
 h1 {
